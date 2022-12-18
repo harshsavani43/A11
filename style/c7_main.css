@@ -1,0 +1,111 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+    border: solid #931420;
+    background-color: #fffded;
+    height: 1026px;
+}.secondarea {
+    width: 215px;
+    float: right;
+}.firstarea {
+    width: 525px;
+    float: right;
+}
+h2, span{
+    color: #931420;
+}
+.header{
+
+    background: linear-gradient(30deg, #f6bb73 0%, #f6bb73 30% , white 50%, #f6bb73 80%, #f6bb73 100% );
+}.header img {
+    width: 70px;
+    float: left;
+    padding-right: 20px;
+}.header {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+  
+}h2.spp {
+    color: black;
+}
+.twoo {
+    border-top: solid #931420;
+    border-bottom: solid #931420;
+    padding-bottom: 75px;
+    margin-bottom: 37px;
+}
+.main {
+    padding-left: 15px;
+}.left h2 {
+    margin-bottom: -15px;
+}h5 {
+    margin-bottom: 4px;
+}h1 {
+    border-top: solid #931420;
+    border-bottom: solid #931420;
+    margin-right: 20px;
+    padding: 5px;
+}.footer {
+    background: #931420;
+    color: #fff;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100% !important;
+    float: left;
+}.fsttone {
+    width: 250px;
+    float: left;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #931420;
+}
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #931420;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
